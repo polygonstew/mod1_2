@@ -1,12 +1,11 @@
 <h2>In-Class Assignment</h2>
+ <h3>2nd Project</h3>
+
 Following the examples provided in the required learning materials, create a new .NET console application. This application should accomplish two things:
 <p>
 Display some text using <code><b>Console.WriteLine() or Console.Write()</b></code>.
 Wait for a user's response using <code><b>Console.Read(), Console.ReadKey(), or Console.ReadLine().</b></code>
 Feel free to be as creative as you would like and make sure you save your project. You will be uploading this project to GitHub as part of next week's in-class work.
- <h3>1st Project - <a href src="https://github.com/polygonstew/mod1">Found Here</a></h3>
- <h3>2nd Project - <a href src="https://github.com/polygonstew/mod1_2">Found Here</a></h3>
- 
 </p>
 <h2>Deliverables</h2>
 <p>
