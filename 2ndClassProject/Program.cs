@@ -43,7 +43,14 @@ decimal nicolasScore;
 decimal zahirahScore;
 decimal jeongScore;
 
-Console.WriteLine("Sophia: " + (sophiaSum / 5));
-Console.WriteLine("Nicolas: " + (nicolasSum / 5));
-Console.WriteLine("Zahirah: " + (zahirahSum / 5));
-Console.WriteLine("Jeong: " + (jeongSum / 5));
+// Am I doing this right? Is my declarations off?
+// is it a public vs static issue?
+sophiaScore = sophiaSum / currentAssignments;
+nicolasScore = nicolasSum / currentAssignments;
+zahirahScore = zahirahSum / currentAssignments;
+jeongScore = jeongSum / currentAssignments;
+
+Console.WriteLine("Sophia: " + sophiaScore + " A");
+Console.WriteLine("Nicolas: " + nicolasScore + " B");
+Console.WriteLine("Zahirah: " + zahirahScore + " B");
+Console.WriteLine("Jeong: " + jeongScore + " A");
